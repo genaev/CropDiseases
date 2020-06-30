@@ -1,0 +1,6 @@
+{
+    "healthy": 0,
+    "leaf rust": 1,
+    "stem rust": 2,
+    "yellow rust": 3
+}

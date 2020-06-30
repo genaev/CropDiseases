@@ -1,0 +1,44 @@
+{
+  "msg": {
+    "message_id": 222,
+    "from": {
+      "id": 490423292,
+      "is_bot": false,
+      "first_name": "Dmitry",
+      "last_name": "Afonnikov",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 490423292,
+      "first_name": "Dmitry",
+      "last_name": "Afonnikov",
+      "type": "private"
+    },
+    "date": 1593500086,
+    "photo": [
+      {
+        "file_id": "AgACAgIAAxkBAAPeXvrhtudFkU0PCWbruu8AAStSe8vmAALWrjEb_1TQS6DE3GRgHns9hYZvkS4AAwEAAwIAA20AA_oMBQABGgQ",
+        "file_unique_id": "AQADhYZvkS4AA_oMBQAB",
+        "file_size": 33941,
+        "width": 180,
+        "height": 320
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAPeXvrhtudFkU0PCWbruu8AAStSe8vmAALWrjEb_1TQS6DE3GRgHns9hYZvkS4AAwEAAwIAA3gAA_wMBQABGgQ",
+        "file_unique_id": "AQADhYZvkS4AA_wMBQAB",
+        "file_size": 160915,
+        "width": 450,
+        "height": 800
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAPeXvrhtudFkU0PCWbruu8AAStSe8vmAALWrjEb_1TQS6DE3GRgHns9hYZvkS4AAwEAAwIAA3kAA_sMBQABGgQ",
+        "file_unique_id": "AQADhYZvkS4AA_sMBQAB",
+        "file_size": 271434,
+        "width": 720,
+        "height": 1280
+      }
+    ]
+  },
+  "tag": "healthy",
+  "prob": 0.981166422367096
+}

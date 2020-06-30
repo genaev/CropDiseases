@@ -1,0 +1,44 @@
+{
+  "msg": {
+    "message_id": 192,
+    "from": {
+      "id": 400169185,
+      "is_bot": false,
+      "first_name": "Misha",
+      "last_name": "Genaev",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 400169185,
+      "first_name": "Misha",
+      "last_name": "Genaev",
+      "type": "private"
+    },
+    "date": 1593081763,
+    "photo": [
+      {
+        "file_id": "AgACAgIAAxkBAAPAXvR_owE0yhWgene4xUSYfQunDecAAmutMRsuFKlLp8bEHTW5Gd8IDZeVLgADAQADAgADbQADdccAAhoE",
+        "file_unique_id": "AQADCA2XlS4AA3XHAAI",
+        "file_size": 9149,
+        "width": 320,
+        "height": 213
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAPAXvR_owE0yhWgene4xUSYfQunDecAAmutMRsuFKlLp8bEHTW5Gd8IDZeVLgADAQADAgADeAADdscAAhoE",
+        "file_unique_id": "AQADCA2XlS4AA3bHAAI",
+        "file_size": 42145,
+        "width": 800,
+        "height": 533
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAPAXvR_owE0yhWgene4xUSYfQunDecAAmutMRsuFKlLp8bEHTW5Gd8IDZeVLgADAQADAgADeQADc8cAAhoE",
+        "file_unique_id": "AQADCA2XlS4AA3PHAAI",
+        "file_size": 68530,
+        "width": 1280,
+        "height": 853
+      }
+    ]
+  },
+  "tag": "stem rust",
+  "prob": 0.9837799668312073
+}

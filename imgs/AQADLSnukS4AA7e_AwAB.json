@@ -1,0 +1,44 @@
+{
+  "msg": {
+    "message_id": 212,
+    "from": {
+      "id": 490423292,
+      "is_bot": false,
+      "first_name": "Dmitry",
+      "last_name": "Afonnikov",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 490423292,
+      "first_name": "Dmitry",
+      "last_name": "Afonnikov",
+      "type": "private"
+    },
+    "date": 1593498133,
+    "photo": [
+      {
+        "file_id": "AgACAgIAAxkBAAPUXvraFAjnyJ3o6BHpESwBYeHH1w0AAoOuMRv_VNBLBxO617fHZVctKe6RLgADAQADAgADbQADtr8DAAEaBA",
+        "file_unique_id": "AQADLSnukS4AA7a_AwAB",
+        "file_size": 25463,
+        "width": 180,
+        "height": 320
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAPUXvraFAjnyJ3o6BHpESwBYeHH1w0AAoOuMRv_VNBLBxO617fHZVctKe6RLgADAQADAgADeAADuL8DAAEaBA",
+        "file_unique_id": "AQADLSnukS4AA7i_AwAB",
+        "file_size": 106075,
+        "width": 450,
+        "height": 800
+      },
+      {
+        "file_id": "AgACAgIAAxkBAAPUXvraFAjnyJ3o6BHpESwBYeHH1w0AAoOuMRv_VNBLBxO617fHZVctKe6RLgADAQADAgADeQADt78DAAEaBA",
+        "file_unique_id": "AQADLSnukS4AA7e_AwAB",
+        "file_size": 175590,
+        "width": 720,
+        "height": 1280
+      }
+    ]
+  },
+  "tag": "leaf rust",
+  "prob": 0.9349460601806641
+}
