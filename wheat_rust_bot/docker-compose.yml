@@ -2,6 +2,7 @@ version: "3"
 
 services:
   queue:
+    user: $UID:$GID
     image: rabbitmq:3.7-management-alpine
     environment:
       - RABBITMQ_ERLANG_COOKIE=3WzUFfk71jdJxjMjhNsT
@@ -11,6 +12,7 @@ services:
       - 15672:15672
 
   services:
+    user: $UID:$GID
     build:
       context: ..
       dockerfile: wheat_rust_bot/Dockerfile
@@ -19,6 +21,7 @@ services:
       - queue
 
   web:
+    user: $UID:$GID
     build:
       context: ..
       dockerfile: wheat_rust_bot/Dockerfile
@@ -29,6 +32,7 @@ services:
       - services
 
   tgbot:
+    user: $UID:$GID
     build:
       context: ..
       dockerfile: wheat_rust_bot/Dockerfile

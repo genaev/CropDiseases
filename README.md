@@ -1,7 +1,7 @@
 
 ## Wheat rust detection telegram bot
 * Register telegram bot, achieve token
-* `cd wheat_rust_bot && TG_TOKEN="telegram bot token goes here" docker-compose up --force-recreate --build`
+* `cd wheat_rust_bot && export UID=$(id -u) && export GID=$(id -g) && TG_TOKEN="telegram bot token goes here" docker-compose up --force-recreate --build`
 * RabbitMQ web ui: http://127.0.0.1:15672/#/
   * user: admin
   * password: j8XfG9ZDT5ZZrWTzw62q
