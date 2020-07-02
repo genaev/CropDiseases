@@ -20,7 +20,7 @@ ENV PYTHONPATH=/src
 
 WORKDIR /src
 
-COPY ./wheat_rust_bot/requirements.txt .
+COPY ./requirements/requirements.txt .
 RUN pip install -r requirements.txt
 
 COPY ./model /model
